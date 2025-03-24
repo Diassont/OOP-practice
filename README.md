@@ -47,4 +47,4 @@ public class App {
 
 ```
 ## Результат роботи програми
-![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/main/src/Task%200/image/task0.png?raw=true)
+![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/Task-1-24.03.2025/image/task1.png?raw=true)
