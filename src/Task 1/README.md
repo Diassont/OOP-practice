@@ -1,18 +1,33 @@
-## Getting Started
+# Завдання 1 - арифметичні операції
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Ця програма запитує користувача ввести два числа та виконує над ними основні арифметичні операції: суму, різницю, добуток та частку.
 
-## Folder Structure
+## Код програми
 
-The workspace contains two folders by default, where:
+```java
+import java.util.Scanner;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+public class App {
+    public static void main(String[] args) {
+        try (Scanner scanner = new Scanner(System.in)) {
+            System.out.print("Введiть перше число: ");
+            double num1 = scanner.nextDouble();
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+            System.out.print("Введiть друге число: ");
+            double num2 = scanner.nextDouble();
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+            double sum = num1 + num2;
+            double difference = num1 - num2;
+            double product = num1 * num2;
+            double quotient = num1 / num2;
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+            System.out.println("Сума: " + sum);
+            System.out.println("Рiзниця: " + difference);
+            System.out.println("Добуток: " + product);
+            System.out.println("Частка: " + quotient);
+        }
+    }
+}
+```
+## Результат роботи програми
+![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/main/src/Task%201/image/task1.png?raw=true)
