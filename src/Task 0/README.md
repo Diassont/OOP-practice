@@ -1,18 +1,50 @@
-## Getting Started
+# Завдання 1 - арифметичні операції
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Ця програма запитує користувача ввести два числа та виконує над ними основні арифметичні операції: суму, різницю, добуток та частку.
 
-## Folder Structure
+## Код програми
 
-The workspace contains two folders by default, where:
+```java
+import java.util.Scanner;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+/**
+ * Клас App виконує арифметичні операції над двома введеними числами.
+ * Користувач вводить два числа, і програма виводить їхню суму, різницю, добуток і частку.
+ */
+public class App {
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    /**
+     * Головний метод програми.
+     * Запитує у користувача два числа та виконує над ними арифметичні операції.
+     * 
+     * @param args Аргументи командного рядка (не використовуються).
+     */
+    public static void main(String[] args) {
+        // Створюємо об'єкт Scanner для зчитування вводу користувача
+        try (Scanner scanner = new Scanner(System.in)) {
+            // Запитуємо перше число
+            System.out.print("Введiть перше число: ");
+            double num1 = scanner.nextDouble();
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+            // Запитуємо друге число
+            System.out.print("Введiть друге число: ");
+            double num2 = scanner.nextDouble();
 
-## Dependency Management
+            // Виконуємо арифметичні операції
+            double sum = num1 + num2;            // Сума
+            double difference = num1 - num2;     // Різниця
+            double product = num1 * num2;        // Добуток
+            double quotient = num1 / num2;       // Частка
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+            // Виводимо результати
+            System.out.println("Сума: " + sum);
+            System.out.println("Рiзниця: " + difference);
+            System.out.println("Добуток: " + product);
+            System.out.println("Частка: " + quotient);
+        }
+    }
+}
+
+```
+## Результат роботи програми
+![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/main/src/Task%200/image/task0.png?raw=true)
