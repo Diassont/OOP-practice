@@ -47,7 +47,7 @@
 ```
 
 ## 🖼️ Результат роботи програми:
-![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/Task-1-24.03.2025/image/task1.png?raw=true)
+![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/Task-2-25.03.2025/java/src/image/task2.jpg?raw=true)
 
 ## 🖼️ Тестування програми:
-![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/Task-1-24.03.2025/image/task1.png?raw=true)
+![Результат тестування програми](https://github.com/Diassont/OOP-practice/blob/Task-2-25.03.2025/java/src/image/test2.jpg?raw=true)
