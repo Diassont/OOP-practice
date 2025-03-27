@@ -69,4 +69,4 @@
 ![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/Task-3-26.03.2025/java/src/image/Task3.1.png?raw=true)
 
 ## 🖼️ Тестування програми:
-![Результат роботи програми](https://github.com/Diassont/OOP-practice/blob/Task-3-26.03.2025/java/src/image/Test3.png?raw=true)
+![Результат тестування програми](https://github.com/Diassont/OOP-practice/blob/Task-3-26.03.2025/java/src/image/Test3.png?raw=true)
