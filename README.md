@@ -12,25 +12,25 @@
 
 ## 🖼️ Результат роботи програми:
 ### Вибір команди - згенерувати параметри
-![Результат роботи програми]()<br>
+![Згенерувати параметри](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/Generate%20parameters.png?raw=true)<br>
 
 ### Вибір команди - зберегти результат(и)
-![Результат роботи програми]()<br>
+![Зберегти результат(и)](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/Save%20results.png?raw=true)<br>
 
 ### Вибір команди - скасувати останню дію
-![Результат роботи програми]()<br>
+![Скасувати останню дію](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/Undo%20last%20action.png?raw=true)<br>
 
 ### Вибір команди - відновити результат
-![Результат роботи програми]()<br>
+![Відновити результат](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/Restore%20result.png?raw=true)<br>
 
 ### Вибір команди - змінити елемент 1 - Маса
-![Результат роботи програми]()<br>
+![Змінити елемент 1](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/Change%20element%201%20-%20Mass.png?raw=true)<br>
 
 ### Вибір команди - змінити елемент 2 - Швидкість 
-![Результат роботи програми]()<br>
+![Змінити елемент 2](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/Change%20element%202%20-%20Velocity.png?raw=true)<br>
 
 ### Вибір команди - змінити елемент 3 - Висота
-![Результат роботи програми]()<br>
+![Змінити елемент 3](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/Change%20element%203%20-%20Height.png?raw=true)<br>
 
 ### Вибір команди - переглянути результат
-![Результат роботи програми]()<br>
+![Переглянути результат](https://github.com/Diassont/OOP-practice/blob/Task-7-01.04.2025/Main/Image/View%20result.png?raw=true)<br>
